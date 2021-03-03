@@ -7,8 +7,7 @@ Joost Faber is mijn docent voor dit project.
 # De courses
 - Vue complete guide van Maximilian | 48u 50m | https://www.udemy.com/course/vuejs-2-the-complete-guide/
 
-# Certificaten:
+# Certificaat:
 
-## Vue:
 ![Certificate](https://user-images.githubusercontent.com/43336468/108981021-99a29480-768c-11eb-9389-65fed93fff4e.jpg)
 
