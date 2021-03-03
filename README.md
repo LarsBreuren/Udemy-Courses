@@ -1,4 +1,4 @@
-# Udemy-Courses
+# Udemy-Course
 Voor 2 studieregie en professionalisering punten ga ik een course volgen op udemy die relevant is voor mijn werkgebied.
 Ik documenteer deze course in de [wiki](https://github.com/LarsBreuren/Udemy-Courses/wiki) en zal eventuele code in de github zelf zetten.
 Aan het einde van de course zal ik de behaalde certificaten ook in de wiki zetten.
