@@ -4,7 +4,7 @@ Ik documenteer deze course in de [wiki](https://github.com/LarsBreuren/Udemy-Cou
 Aan het einde van de course zal ik de behaalde certificaten ook in de wiki zetten.
 Joost Faber is mijn docent voor dit project.
 
-# De courses
+# De course
 - Vue complete guide van Maximilian | 48u 50m | https://www.udemy.com/course/vuejs-2-the-complete-guide/
 
 # Certificaat:
