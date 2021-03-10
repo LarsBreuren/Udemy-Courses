@@ -30,5 +30,6 @@ Veel onderwerpen uit de courses kwamen terug in dit project, denk aan:
 
 ## Progress CSS course 
 
-![Screenshot_6](https://user-images.githubusercontent.com/43336468/110612170-39cde280-8190-11eb-9393-1ec4d2224880.png)
+![CSS certificate](https://user-images.githubusercontent.com/43336468/110616086-700d6100-8194-11eb-99c7-33394a8184ba.jpg)
+
 
