@@ -23,12 +23,12 @@ Veel onderwerpen uit de courses kwamen terug in dit project, denk aan:
 - CSS - The complete guide 2021 (incl. flexbopx, grid & SASS). | 22u 30m | https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
 
 
-# Certificaat:
+# Certificaat Vue:
 
 ![Certificate](https://user-images.githubusercontent.com/43336468/108981021-99a29480-768c-11eb-9389-65fed93fff4e.jpg)
 
 
-## Progress CSS course 
+# Certificaat CSS:
 
 ![CSS certificate](https://user-images.githubusercontent.com/43336468/110616086-700d6100-8194-11eb-99c7-33394a8184ba.jpg)
 
